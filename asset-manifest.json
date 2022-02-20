@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/mari/static/css/main.5216a5fc.css",
+    "main.js": "/mari/static/js/main.1e77fb2e.js",
+    "static/js/787.0a28d75e.chunk.js": "/mari/static/js/787.0a28d75e.chunk.js",
+    "static/media/IMG_1145.JPEG": "/mari/static/media/IMG_1145.080b17e5f1727a3ab5bc.JPEG",
+    "static/media/PlayfairDisplay-Bold.eot": "/mari/static/media/PlayfairDisplay-Bold.2188be68e0950cf00508.eot",
+    "static/media/Roboto-Medium.eot": "/mari/static/media/Roboto-Medium.f9f0c87146a33023da7e.eot",
+    "static/media/Roboto-Light.eot": "/mari/static/media/Roboto-Light.d592a653abb7a57fedd8.eot",
+    "static/media/RobotoCondensed-Regular.eot": "/mari/static/media/RobotoCondensed-Regular.7add78d3a6ab050386af.eot",
+    "static/media/RobotoCondensed-Bold.eot": "/mari/static/media/RobotoCondensed-Bold.e1b897a30ea55a72d9a0.eot",
+    "static/media/RobotoCondensed-Light.eot": "/mari/static/media/RobotoCondensed-Light.64a519d51871096ea271.eot",
+    "static/media/PlayfairDisplay-Bold.woff": "/mari/static/media/PlayfairDisplay-Bold.cec93b01670a496d6605.woff",
+    "static/media/Roboto-Medium.woff": "/mari/static/media/Roboto-Medium.b14ca2d2b289afceb0b0.woff",
+    "static/media/RobotoCondensed-Bold.woff": "/mari/static/media/RobotoCondensed-Bold.14a7047141f97b966d40.woff",
+    "static/media/Roboto-Light.woff": "/mari/static/media/Roboto-Light.df0f59d80526acc6d0cd.woff",
+    "static/media/RobotoCondensed-Regular.woff": "/mari/static/media/RobotoCondensed-Regular.25787041ddfe8df69d5d.woff",
+    "static/media/RobotoCondensed-Light.woff": "/mari/static/media/RobotoCondensed-Light.23f975f0e40a20fbb55a.woff",
+    "static/media/PlayfairDisplay-Bold.woff2": "/mari/static/media/PlayfairDisplay-Bold.24ab0f8b77510b2a36ff.woff2",
+    "static/media/Roboto-Medium.woff2": "/mari/static/media/Roboto-Medium.fc0337b9cf1cce2e6e1e.woff2",
+    "static/media/RobotoCondensed-Regular.woff2": "/mari/static/media/RobotoCondensed-Regular.512246f3e4dd1aa9f3b6.woff2",
+    "static/media/RobotoCondensed-Bold.woff2": "/mari/static/media/RobotoCondensed-Bold.ca4102722c4d0b98f734.woff2",
+    "static/media/Roboto-Light.woff2": "/mari/static/media/Roboto-Light.d537674e9e217fa53a13.woff2",
+    "static/media/RobotoCondensed-Light.woff2": "/mari/static/media/RobotoCondensed-Light.590f38b3bcb651161404.woff2",
+    "static/media/cl.svg": "/mari/static/media/cl.31dbd5e3599babe8a4e7.svg",
+    "static/media/inst.svg": "/mari/static/media/inst.6362b82262a4abe8ab2669f2ef4b1e44.svg",
+    "static/media/logo.svg": "/mari/static/media/logo.5b3aa4a56fc359fd65a5454f63d30885.svg",
+    "static/media/telegram.svg": "/mari/static/media/telegram.1524b99e4bc3720b5cb9a2a7949f9e66.svg",
+    "index.html": "/mari/index.html",
+    "static/media/facebook.svg": "/mari/static/media/facebook.f0617602fc4bbf1e23c52b6eedc3cf40.svg",
+    "static/media/backk.svg": "/mari/static/media/backk.f1f86bb7d2be4a01f201.svg",
+    "static/media/link_icon2.svg": "/mari/static/media/link_icon2.d679cc14f5ed12f87344.svg",
+    "main.5216a5fc.css.map": "/mari/static/css/main.5216a5fc.css.map",
+    "main.1e77fb2e.js.map": "/mari/static/js/main.1e77fb2e.js.map",
+    "787.0a28d75e.chunk.js.map": "/mari/static/js/787.0a28d75e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5216a5fc.css",
+    "static/js/main.1e77fb2e.js"
+  ]
+}
