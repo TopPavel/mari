@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mari/static/css/main.5216a5fc.css",
-    "main.js": "/mari/static/js/main.1e77fb2e.js",
+    "main.css": "/mari/static/css/main.a5ce0e56.css",
+    "main.js": "/mari/static/js/main.e7eef1ca.js",
     "static/js/787.0a28d75e.chunk.js": "/mari/static/js/787.0a28d75e.chunk.js",
     "static/media/IMG_1145.JPEG": "/mari/static/media/IMG_1145.080b17e5f1727a3ab5bc.JPEG",
     "static/media/PlayfairDisplay-Bold.eot": "/mari/static/media/PlayfairDisplay-Bold.2188be68e0950cf00508.eot",
@@ -30,12 +30,12 @@
     "static/media/facebook.svg": "/mari/static/media/facebook.f0617602fc4bbf1e23c52b6eedc3cf40.svg",
     "static/media/backk.svg": "/mari/static/media/backk.f1f86bb7d2be4a01f201.svg",
     "static/media/link_icon2.svg": "/mari/static/media/link_icon2.d679cc14f5ed12f87344.svg",
-    "main.5216a5fc.css.map": "/mari/static/css/main.5216a5fc.css.map",
-    "main.1e77fb2e.js.map": "/mari/static/js/main.1e77fb2e.js.map",
+    "main.a5ce0e56.css.map": "/mari/static/css/main.a5ce0e56.css.map",
+    "main.e7eef1ca.js.map": "/mari/static/js/main.e7eef1ca.js.map",
     "787.0a28d75e.chunk.js.map": "/mari/static/js/787.0a28d75e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5216a5fc.css",
-    "static/js/main.1e77fb2e.js"
+    "static/css/main.a5ce0e56.css",
+    "static/js/main.e7eef1ca.js"
   ]
 }
